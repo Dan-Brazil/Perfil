@@ -1,15 +1,15 @@
 ## Olá! me chamo Daniel Oliveira! Sou aprendiz de programação e tecnologia!
 <div align="center">
-  <a href="https://github.com/dev-danizin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-danizin&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-danizin&layout=compact&langs_count=7&theme=blue-green"/>
+  <a href="https://github.com/Dan-Brazil">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan-Brazil&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Brazil&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Danizin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Danizin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Danizin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Danizin-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Danizin-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/835616020990525440/895739271862947851/94097_vsTUmsKx.png">
+  <img align="center" alt="Dan-Brazil-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Dan-Brazil-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Dan-Brazil-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Dan-Brazil-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Dan-Brazil-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/835616020990525440/895739271862947851/94097_vsTUmsKx.png">
 </div>
   
   ##
